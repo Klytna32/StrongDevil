@@ -5,6 +5,7 @@ public class RasschetBuchla {
 
     public double chisloSpirta(double vesTela){
       double  result=vesTela*coeffichentGrNaKilo;
+
       return result;
     }
 }
